@@ -33,7 +33,7 @@ Tus usuarios pueden:
 
 ### Enlaces
 
-- **URL en GITHUB de mi proyecto:** [PEGA AQUÍ EL LINK DE TU REPOSITORIO]
+- **URL en GITHUB de mi proyecto:** [https://github.com/221k0028-svg/Evalucion-Diagnositca]
 - **URL del site (InfinityFree):** [http://evaluacion-formulario.infinityfree.me/]
 
 ## Mi proceso
@@ -57,4 +57,5 @@ Tus usuarios pueden:
 - **N° Control:** [221K0028]
 - **Grupo:** [8A]
 - **Sitio Web:** [Carlos Tec][http://evaluacion-formulario.infinityfree.me/]
-- **Github:** [Carlos Tec](https://github.com/[TU_USUARIO_AQUÍ])
+
+- **Github:** [Carlos Tec](https://github.com/221k0028-svg/Evalucion-Diagnositca)
